@@ -3,8 +3,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddyharold&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eddyharold&count_private=true&show_icons=true&hide=stars)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ediharorudo)
    
 ## Social medias
  
