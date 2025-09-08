@@ -1,6 +1,4 @@
-# Welcome fellow comrade
-   
-## Let's get in touch
+# Welcome fellow comrade, Let's get in touch
  
 <a href="https://www.linkedin.com/in/donfack-eddy-harold">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
@@ -16,11 +14,13 @@
 
 ## My world 🛠
 <div>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-    <img src="https://img.shields.io/badge/nextdotjs?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-   ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
-    <img src="https://img.shields.io/badge/Tailwind%20css-35BDB2?style=for-the-badge&logo=tailwind%20css%20react&logoColor=white" alt="tailwind" />
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20css-35BDB2?logo=tailwind%20css%20react&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
 </div>
 
 
