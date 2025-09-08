@@ -1,15 +1,15 @@
 # Welcome fellow comrade, Let's get in touch
  
 <a href="https://www.linkedin.com/in/donfack-eddy-harold">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin" />
 </a>
 
-<a href="mailto:donfackeddyharold@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail" />
+<a href="mailto:harorudo.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail" />
 </a>
 
-<a href="https://twitter.com/EdiHarorudo">
-<img src="https://img.shields.io/badge/Twitter-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="gmail" />
+<a href="https://x.com/edharorudo">
+<img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="gmail" />
 </a>
 
 ## My world 🛠
@@ -23,12 +23,7 @@
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
 </div>
 
-
 ## GitHub Stats 📈
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eddyharold&layout=compact&hide_border=true&langs_count=10" alt="Top languages" />
 <div>
-    
-## Spotify
-    
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31n2pvcnmxktrwaceqjzrmmlnhqe&count=3&width=700)
