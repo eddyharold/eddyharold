@@ -1,5 +1,6 @@
-# Welcome fellow comrade, Let's get in touch
- 
+# Hello fellow comrade, I'm Eddy Harold (Harorudo)
+
+ ## Let's get in touch
 <a href="https://www.linkedin.com/in/donfack-eddy-harold">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin" />
 </a>
