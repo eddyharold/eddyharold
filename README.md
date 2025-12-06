@@ -1,10 +1,12 @@
 # Hello fellow comrade, I'm Eddy Harold (Harorudo)
 
-I'm a tech nerd building clean, scalable products that solve real problems.
+I'm a tech nerd focused on building clean, scalable digital products.
 
-With four years of experience delivering ERPs, CRMs, and SaaS platforms, I work with React, TypeScript, Laravel, Express, Node, SQL, and modern AI tools like Claude.
+Over the past 4 years, I’ve contributed to the delivery of apps like ERPs, CRMs, SaaS, and more — each with its own architecture and workflow.
 
-I focus on reliable engineering, fast execution, and solutions that bring measurable value.
+My core stack includes React, TypeScript, Laravel, Express, Node, SQL, and modern AI tools like Claude.
+
+I aim for reliable engineering, fast execution, and solutions that deliver real value
 
  ## Let's get in touch
 <a href="https://www.linkedin.com/in/donfack-eddy-harold">
