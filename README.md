@@ -1,4 +1,4 @@
-# Hello fellow comrade, I'm Eddy Harold (Harorudo)
+# Hello fellows, it's Eddy Harold (Harorudo)
 
 I'm a tech nerd focused on building clean, scalable digital products.
 
