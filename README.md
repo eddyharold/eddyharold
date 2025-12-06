@@ -13,6 +13,6 @@ I focus on reliable engineering, fast execution, and solutions that bring measur
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail" />
 </a>
 
-<a href="https://x.com/edharorudo">
+<a href="https://x.com/__harorudo">
 <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="gmail" />
 </a>
