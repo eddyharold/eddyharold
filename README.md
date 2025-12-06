@@ -1,7 +1,9 @@
 # Hello fellow comrade, I'm Eddy Harold (Harorudo)
 
 I'm a tech nerd building clean, scalable products that solve real problems.
+
 With four years of experience delivering ERPs, CRMs, and SaaS platforms, I work with React, TypeScript, Laravel, Express, Node, SQL, and modern AI tools like Claude.
+
 I focus on reliable engineering, fast execution, and solutions that bring measurable value.
 
  ## Let's get in touch
